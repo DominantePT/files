@@ -1,3 +1,3 @@
 Welcome!!
-<hr>
-<center>Dominante.PT</center>
+
+Dominante.PT
